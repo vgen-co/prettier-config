@@ -1,8 +1,10 @@
 {
   "name": "@vgen-co/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.2",
   "description": "VGen's Prettier config",
   "main": "index.js",
-  "author": "",
-  "private": false
+  "scripts": {
+    "artifactregistry-login": "npx google-artifactregistry-auth"
+  },
+  "author": ""
 }
