@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "VGen's Prettier config",
   "main": "index.js",
-  "author": "",
-  "private": false
+  "scripts": {
+    "artifactregistry-login": "npx google-artifactregistry-auth"
+  },
+  "author": ""
 }
