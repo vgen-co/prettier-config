@@ -1,6 +1,6 @@
 {
   "name": "@vgen-co/prettier-config",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "VGen's Prettier config",
   "main": "index.js",
   "scripts": {
